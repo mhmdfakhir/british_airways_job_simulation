@@ -9,7 +9,6 @@ I improved my abilites in the following skills:
 - Assumption Development
 - Communication
 - Data Modeling
-- Data Science
 - Data Visualization
 - Infrastructure Planning
 - Machine Learning
